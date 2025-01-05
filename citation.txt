@@ -1,0 +1,6 @@
+@article{REPO200,
+    author = "{\c{C}}elen, Ata and Han, Guo and Schindler, Konrad and Van Gool, Luc and Armeni, Iro and Obukhov, Anton and Wang, Xi",
+    journal = "arXiv preprint arXiv:2404.02838",
+    title = "{I-design: Personalized llm interior designer}",
+    year = "2024"
+}
